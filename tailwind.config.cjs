@@ -7,6 +7,7 @@ module.exports = {
         'bluewee-100':'#CEE0FF',
         'bluewee-500':'#0730FB',
         'bluewee-700':'#0C2188',
+        'whitewee-200':'#F2F3F7'
       },
       spacing: {
         '10vh':'10vh',
@@ -21,7 +22,8 @@ module.exports = {
         '100vh':'100vh',
         '3/5':'60%',
         '3/10':'30%',
-      }
+        '3full':'300%'
+      },
     },
   },
   plugins: [],

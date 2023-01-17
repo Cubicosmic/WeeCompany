@@ -8,6 +8,10 @@
   margin: 0;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .Full {
   width: 100%;
   min-height: 90vh;
@@ -49,4 +53,12 @@
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-image: url("./assets/s4-text.jpg");
+}
+
+/* seccion5 */
+
+.S5 {
+  background-image: url("./assets/fondo.png");
+  background-size: 100% 100%;
+  background-attachment: fixed;
 }
