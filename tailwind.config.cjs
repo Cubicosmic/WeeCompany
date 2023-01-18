@@ -4,10 +4,14 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        'bluewee-50':'#4FBBFF',
         'bluewee-100':'#CEE0FF',
         'bluewee-500':'#0730FB',
         'bluewee-700':'#0C2188',
-        'whitewee-200':'#F2F3F7'
+        'whitewee-200':'#F2F3F7',
+        'pinkwee-200':'#FF7766',
+        'pinkwee-200':'#FF7766',
+        'greenwee-200':'#13D693',
       },
       spacing: {
         '10vh':'10vh',
@@ -20,9 +24,15 @@ module.exports = {
         '80vh':'80vh',
         '90vh':'90vh',
         '100vh':'100vh',
+        '110vh':'110vh',
+        '240vh':'240vh',
+        '300vh':'300vh',
+        '400vh':'400vh',
+        '500vh':'500vh',
+        '1/5':'20%',
         '3/5':'60%',
         '3/10':'30%',
-        '3full':'300%'
+        '3full':'300%',
       },
     },
   },

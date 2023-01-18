@@ -60,5 +60,4 @@ body {
 .S5 {
   background-image: url("./assets/fondo.png");
   background-size: 100% 100%;
-  background-attachment: fixed;
 }
